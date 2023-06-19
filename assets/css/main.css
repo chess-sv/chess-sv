@@ -640,7 +640,11 @@ img[height] {
   margin-right: 0;
   width: 2.8rem;
 }
-
+.o-media--block > .o-media__figure2 {
+  margin-left: 0;
+  margin-right: 0;
+  width: 3.8rem;
+}
 .o-container {
   max-width: 1276px;
   margin: 0 auto;
