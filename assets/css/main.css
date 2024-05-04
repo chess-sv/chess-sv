@@ -2254,7 +2254,9 @@ img[height] {
 .u-pb-0 {
   padding-bottom: 0 !important;
 }
-
+.u-pb-1 {
+  padding-top: 0px !important;
+}
 .u-mt-text {
   margin-top: 0.55rem;
 }
