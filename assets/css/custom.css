@@ -1,5 +1,24 @@
-/**
- * CUSTOM CSS
- *
- * Here you can add your custom CSS code.
- */
+.c-skill-list li {
+    margin-bottom: 1rem; /* Espacio entre cada habilidad */
+    font-size: 1rem;
+    line-height: 1.4;
+    color: #727272; 
+}
+
+.c-skill-name {
+    display: block; /* Fuerza el salto de línea para que el detalle quede abajo */
+    color: #333;    
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+
+.c-skill-detail {
+    font-size: 0.9em;
+    opacity: 0.85;
+    font-weight: 400;
+}
+
+.c-skill-level {
+    font-size: 0.9em;
+    font-weight: 600;
+}
